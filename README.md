@@ -1,20 +1,20 @@
-<h3 align="center"> Hi there, I'm Cameron 👋 </h3>
+<h1 align="Left">Hi there, I'm Cameron 👋</h1>
 
-Hi, I'm Cameron. I am a junior at Liberty University studying Software Engineering. I love to learn new things and teach people about programming.
+<h4 align="Left">Hi, I'm Cameron. I am a junior at Liberty University studying Software Engineering. I love to learn new things and teach people about programming. </h4>
 
-<h3 align="center">
-  Check out <a href="https://cameron.rs">my website</a>!
+I'm currently looking for internships! Feel free to contact me at one of the links below.
+
+Email - **[hello@wzid.dev](mailto:contact@jakehoffman.dev)**<br>
+Linkedin - **[linkedin.com/in/cameron-k](https://www.linkedin.com/in/cameron-k-a00565257/)**<br>
+
+Also check out my website, [**cameron.rs**](https://cameron.rs)
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nscpq91x1a3iz5ervo4svdxq9&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</h3>
+<span align="left">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakehffn&layout=compact&theme=gruvbox">
+  
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=nscpq91x1a3iz5ervo4svdxq9&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
 
-<a href="https://github.com/wzid">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wzid&show_icons=true&theme=apprentice&count_private=true" />
-</a>
+</span>
 
-<a href="https://github.com/wzid">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wzid&layout=compact&theme=apprentice" />
-</a>
