@@ -1,4 +1,4 @@
-<h1 align="Left">Hi there, I'm Cameron 👋</h1>
+<h1 align="Left">Hi 👋</h1>
 
 <h4 align="Left">Hi, I'm Cameron. I am a junior at Liberty University studying Software Engineering. I love to learn new things and teach people about programming. </h4>
 
