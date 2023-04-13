@@ -4,7 +4,7 @@
 
 I'm currently looking for internships! Feel free to contact me at one of the links below.
 
-Email - **[hello@wzid.dev](mailto:hello@wzid.dev)**<br>
+Email - **[me@cameron.rs](mailto:me@cameron.rs)**<br>
 Linkedin - **[linkedin.com/in/cameron-k](https://www.linkedin.com/in/cameron-k-a00565257/)**<br>
 
 Also check out my website, [**cameron.rs**](https://cameron.rs)
