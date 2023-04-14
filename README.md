@@ -1,6 +1,6 @@
 <h1 align="Left">Hi <img src="assets/wave.gif" width="30px"></h1>
 
-<h4 align="Left">Hi, I'm Cameron. I am a junior at Liberty University studying Software Engineering. I love to learn new things and teach people about programming. </h4>
+<h4 align="Left">I'm Cameron. I am a junior at Liberty University studying Software Engineering. I love to learn new things and teach people about programming. </h4>
 
 I'm currently looking for internships! Feel free to contact me at one of the links below.
 
