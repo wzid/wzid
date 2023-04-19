@@ -1,6 +1,6 @@
 <h1 align="Left">Hi there, I'm Cameron <img src="assets/wave.gif" width="35px"></h1>
 
-I am an **18 year old** software engineering student studying at **Liberty University**. I love to learn new things and teach people about programming.
+I am a **software engineering student** studying at Liberty University. I love to learn new things and teach people about programming.
 
 Lately, I have been spending a lot of time with **rust** in personal projects and **getting more into low level programming.** I recently finished a [**project**](https://github.com/wzid/sudoku-solver) where I implemented a algorithm to solve a **sudoku puzzle** using **bitfields.**
 
