@@ -2,7 +2,11 @@
 
 I am a **software engineering student** studying at Liberty University. I love to learn new things and teach people about programming.
 
-Lately, I have been spending a lot of time with **rust** in personal projects and **getting more into low level programming.** I recently finished a [**project**](https://github.com/wzid/sudoku-solver) where I implemented a algorithm to solve a **sudoku puzzle** using **bitfields.**
+Currently I am working for [IPConfigure](https://ipconfigure.com) as a software engineering intern using Java!
+
+Lately, I've spent a lot of time with web development. I recently re-designed my [personal website](https://cameron.rs) to start using TailwindCSS and daisyUI.
+
+I am also getting ready for Fall 2023 when I will start my first year as the President of the Competitive Programming Club.
 
 ~I'm currently looking for internships!~ Feel free to contact me at one of the links below.
 
