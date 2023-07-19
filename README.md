@@ -11,6 +11,6 @@ I am also getting ready for Fall 2023 when I will start my first year as the Pre
 ~I'm currently looking for internships!~ Feel free to contact me at one of the links below.
 
 Email - **[me@cameron.rs](mailto:me@cameron.rs)**<br>
-Linkedin - **[linkedin.com/in/cameronkffn](www.linkedin.com/in/cameronkffn/)**<br>
+Linkedin - **[linkedin.com/in/cameronkffn](https://linkedin.com/in/cameronkffn/)**<br>
 
 Also check out my website, [**cameron.rs**](https://cameron.rs)
