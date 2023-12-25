@@ -6,7 +6,7 @@ I do all sorts of programming in my free time. I'm well versed with other progra
 
 I am deeply passionate about the intersection of computer science and mathematics. My interests span all the way from front-end development to number theory, and I thrive on solving challenges in algorithms and data structures.
 
-Oh, and, I write blog posts sometimes. Feel free to [read them](https://github.com/wzid). One of my posts was featured on a [YouTube video](https://www.youtube.com/watch?v=8D7FZoQ-z20)!
+Oh, and, I write blog posts sometimes. Feel free to [read them](https://cameron.rs/blog). One of my posts was featured on a [YouTube video](https://www.youtube.com/watch?v=8D7FZoQ-z20)!
 
 I'm **currently looking for internships**! Feel free to contact me at one of the links below.
 
