@@ -2,7 +2,7 @@
 
 I am a **software engineering student** studying at Liberty University. I love to learn new things and teach people about programming.
 
-I do all sorts of programming in my free time. I'm well versed with other programming languages such as C++, Java, Python, and Rust.
+I do all sorts of programming in my free time. I'm well versed in programming languages such as C++, Java, Python, Rust, and more.
 
 I am deeply passionate about the intersection of computer science and mathematics. My interests span all the way from front-end development to number theory, and I thrive on solving challenges in algorithms and data structures.
 
