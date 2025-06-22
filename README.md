@@ -6,7 +6,7 @@ I write blog posts sometimes. Feel free to [read them](https://cameron.rs/blog).
 - [Python Sucks And I LOVE It | Prime Reacts](https://www.youtube.com/watch?v=8D7FZoQ-z20)
 - [Svelte Is Good For Beginners | Prime Reacts](https://www.youtube.com/watch?v=28NFyGwPHWY)
 
-I'm an **incoming intern @Garmin**! 
+I'm an **intern @Garmin** this summer! 
 
 Feel free to contact me at one of the links below.
 
