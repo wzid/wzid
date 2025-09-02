@@ -8,9 +8,8 @@ I write blog posts sometimes. Feel free to [read them](https://cameron.rs/blog).
 
 I'm was an **intern @Garmin** last summer (2025)! 
 
-Feel free to contact me at one of the links below.
+I am actively looking for full time opportunities post-graduation in May 2026. If you would like to contact me my email is [me@cameron.rs](mailto:me@cameron.rs).
 
-Email - **[me@cameron.rs](mailto:me@cameron.rs)**<br>
 Linkedin - **[linkedin.com/in/cameronkffn](https://linkedin.com/in/cameronkffn/)**<br>
 
 Also check out my website, [**cameron.rs**](https://cameron.rs)
