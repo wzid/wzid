@@ -6,9 +6,9 @@ I write blog posts sometimes. Feel free to [read them](https://cameron.rs/blog).
 - [Python Sucks And I LOVE It | Prime Reacts](https://www.youtube.com/watch?v=8D7FZoQ-z20)
 - [Svelte Is Good For Beginners | Prime Reacts](https://www.youtube.com/watch?v=28NFyGwPHWY)
 
-I was an **intern @Garmin** last summer (2025)! 
+I will be working **@ Oracle** as a software engineer in July 2026.
 
-I am actively looking for full time opportunities post-graduation in May 2026. If you would like to contact me my email is [me@cameron.rs](mailto:me@cameron.rs).
+If you would like to contact me my email is [me@cameron.rs](mailto:me@cameron.rs).
 
 Linkedin - **[linkedin.com/in/cameronkffn](https://linkedin.com/in/cameronkffn/)**<br>
 
