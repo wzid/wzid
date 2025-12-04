@@ -8,8 +8,8 @@ I write blog posts sometimes. Feel free to [read them](https://cameron.rs/blog).
 
 I will be working **@ Oracle** as a software engineer in July 2026.
 
-If you would like to contact me my email is [me@cameron.rs](mailto:me@cameron.rs).
+My youtube channel is [@wzid-codes](https://www.youtube.com/@wzid-codes)
 
-Linkedin - **[linkedin.com/in/cameronkffn](https://linkedin.com/in/cameronkffn/)**<br>
+If you would like to contact me my email is [me@cameron.rs](mailto:me@cameron.rs).
 
 Also check out my website, [**cameron.rs**](https://cameron.rs)
