@@ -1,6 +1,6 @@
 <h1 align="Left">Hi, I'm Cameron 🚀</h1>
 
-I am a senior studying **software engineering student** at Liberty University. I love to learn new things and teach people about programming.
+I love to learn new things and teach people about programming.
 
 I write blog posts sometimes. Feel free to [read them](https://cameron.rs/blog). Two of my posts were featured on YouTube videos:
 - [Python Sucks And I LOVE It | Prime Reacts](https://www.youtube.com/watch?v=8D7FZoQ-z20)
